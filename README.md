@@ -4,7 +4,7 @@
 
 [![Browse the full marketplace](https://img.shields.io/badge/browse_500%2B_skills-augmentclaude.com-5865F2)](https://augmentclaude.com)
 
-There are thousands of Claude skills on GitHub. Most are abandoned, duplicated, or worse than just asking Claude directly. These **14 earn their install** — each one credited and linked to its original author.
+There are thousands of Claude skills on GitHub. Most are abandoned, duplicated, or worse than just asking Claude directly. These **15 earn their install** — each one credited and linked to its original author.
 
 This is the short list. The full catalog — 500+ skills organized by industry, one-command bundles, MCP servers, and agents — lives at **[augmentclaude.com](https://augmentclaude.com)**.
 
@@ -30,6 +30,7 @@ If you ship code with Claude every day, these pay back their install in the firs
 | [gstack](https://augmentclaude.com/s/gstack-garrytan) | [garrytan](https://github.com/garrytan) | Garry Tan's 23-role workflow. `/office-hours`, `/plan-eng-review`, `/review`, `/ship`, `/qa` — turns Claude Code into a team of specialists you summon by slash command. |
 | [MCP Server Builder](https://augmentclaude.com/s/mcp-builder) | [anthropics](https://github.com/anthropics) | Anthropic's official skill for building MCP servers. Scaffolds the project, picks the right SDK, and follows the spec. |
 | [Playwright Web App Testing](https://augmentclaude.com/s/webapp-testing) | [anthropics](https://github.com/anthropics) | Spins up a real browser, verifies the UI behaves, captures screenshots. Critical for anyone deploying to production from Claude Code. |
+| [Firecrawl](https://augmentclaude.com/s/firecrawl) | [firecrawl](https://github.com/firecrawl) | Firecrawl's official skills. Search, scrape, and crawl the web into clean Markdown or structured data, plus ready-made data providers from [Firecrawl Alexandria](https://alexandria.firecrawl.dev/?utm_source=best-claude-skills&utm_medium=integration). |
 
 → [More engineering skills on AugmentClaude](https://augmentclaude.com/c/engineering)
 
