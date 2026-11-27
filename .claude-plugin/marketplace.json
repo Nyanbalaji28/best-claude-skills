@@ -42,6 +42,14 @@
       "category": "engineering"
     },
     {
+      "name": "firecrawl",
+      "source": { "source": "github", "repo": "firecrawl/skills" },
+      "description": "Firecrawl's official skills: search, scrape, and crawl the web into clean Markdown or structured data, with Firecrawl Alexandria for ready-made data providers.",
+      "author": { "name": "firecrawl", "url": "https://github.com/firecrawl" },
+      "homepage": "https://augmentclaude.com/s/firecrawl",
+      "category": "engineering"
+    },
+    {
       "name": "frontend-design",
       "source": { "source": "github", "repo": "anthropics/skills" },
       "description": "Anthropic's official frontend-design skill — production-grade interfaces with distinctive, polished design.",
